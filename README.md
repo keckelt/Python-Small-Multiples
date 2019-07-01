@@ -31,5 +31,5 @@ Goto http://localhost:8888/ and open the *template* notebook.
 
 ## Tasks
 1. Inspect the data and attributes, e.g., with [head()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html), and [dtypes](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes).
-3. The dataset contains players of ten different leagues. Create a small multiples visualisation that shows the age distribution of the players for each league.
+3. The dataset contains players of ten different leagues. Create a small multiples visualisation that shows the age distribution for the players of each league.
 5. Make a screenshot of your small multiples and submit it.

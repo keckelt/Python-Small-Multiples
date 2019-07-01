@@ -31,7 +31,5 @@ Goto http://localhost:8888/ and open the *template* notebook.
 
 ## Tasks
 1. Inspect the data and attributes, e.g., with [head()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html), and [dtypes](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes).
-3. Select a couple of attributes (e.g., those of 2017) and create a [scatterplot matrix](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.plotting.scatter_matrix.html).
-4. Create a color-coded scatterplot matrix using the same attributes and an additional categorical attribute, e.g. with [seaborn](https://seaborn.pydata.org/generated/seaborn.pairplot.html#seaborn.pairplot).
-4. Iinterpret the results.
-5. Download the notebook as HTML and submit it.
+3. The dataset contains players of ten different leagues. Create a small multiples visualisation that shows the age distribution of the players for each league.
+5. Make a screenshot of your small multiples and submit it.

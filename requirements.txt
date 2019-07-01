@@ -1,0 +1,5 @@
+#python dependencies
+notebook
+pandas
+matplotlib
+seaborn
